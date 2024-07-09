@@ -1,5 +1,5 @@
 # New1
-![logo](https://www.cleanpng.com/png-python-logo-triangle-with-snake-on-paper-holding-t-7963782/)
+![logo](https://banner2.cleanpng.com/20240131/cgy/transparent-python-logo-triangle-with-snake-on-paper-holding-1710892013045.webp)
 # Создание Python-скрипта
 
 Этот Python-скрипт демонстрирует создание базовой программы 
